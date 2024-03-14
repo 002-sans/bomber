@@ -1,0 +1,8 @@
+{
+    "tokenneed": "[?] Coloque seu token: ",
+    "invalidToken": "[-] Token inválido!  ",
+    "choice": "[?] Coloque o ID do canal que deseja BOMBAR: ",
+    "invalidChannel": "[-] Nenhum canal encontrado para <channelId>",
+    "number": "[?] Quantas mensagens você deseja enviar: ",
+    "sended": "[+] 1 hentai enviado"
+  }

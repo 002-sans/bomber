@@ -1,0 +1,8 @@
+{
+    "tokenneed": "[?] Put your token: ",
+    "invalidToken": "[-] Invalid token ! Put your token: ",
+    "choice": "[?] Put the channel ID you want to BOMB: ",
+    "invalidChannel": "[-] No channel found for <channelId>",
+    "number": "[?] How many messages do you wanna send: ",
+    "sended": "[+] 1 hentai sended"
+}

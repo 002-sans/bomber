@@ -1,0 +1,8 @@
+{
+    "tokenneed": "[?] 토큰을 넣으세요: ",
+    "invalidToken": "[-] 잘못된 토큰 !  ",
+    "choice": "[?] BOMB하려는 채널 ID를 입력하세요. ",
+    "invalidChannel": "[-] 다음에 대한 채널을 찾을 수 없습니다. <channelId>",
+    "number": "[?] 메시지를 몇 개나 보내시겠어요? ",
+    "sended": "[+] 1개의 헨타이가 전송되었습니다."
+  }

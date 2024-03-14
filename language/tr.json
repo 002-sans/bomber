@@ -1,0 +1,8 @@
+{
+    "tokenneed": "[?] Jetonunuzu koyun: ",
+    "invalidToken": "[-] Geçersiz belirteç!  ",
+    "choice": "[?] BOMBAlamak istediğiniz kanal kimliğini girin: ",
+    "invalidChannel": "[-] Şunun için kanal bulunamadı: <channelId>",
+    "number": "[?] Kaç mesaj göndermek istiyorsunuz: ",
+    "sended": "[+] 1 hentai gönderildi"
+  }

@@ -1,0 +1,8 @@
+{
+    "tokenneed": "[?] 输入您的代币： ",
+    "invalidToken": "[-] 令牌无效 ！ ",
+    "choice": "[?] 输入你想要BOMB的频道ID： ",
+    "invalidChannel": "[-] 找不到频道 <channelId>",
+    "number": "[?] 您想发送多少条消息： ",
+    "sended": "[+] 1 无尽已发送"
+  }

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "djs-selfbot-v13": "^1.0.1",
+    "gradient-string": "^2.0.2",
+    "readline-sync": "^1.4.10",
+    "snekfetch": "^4.0.4",
+    "superagent": "^8.1.2"
+  }
+}
